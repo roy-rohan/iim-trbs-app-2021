@@ -1,0 +1,70 @@
+-------------------------
+time: December 20, 2021, 12:00 am
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: December 20, 2021, 12:01 am
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: December 20, 2021, 12:01 am
+message: Error 2 occured on line 27 in file C:\inetpub\wwwroot\trbs_2021\services\api\images\delete.php: unlink(../../uploads/615124-banner-3.jpg): No such file or directory.
+-------------------------
+-------------------------
+time: December 20, 2021, 12:02 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: December 20, 2021, 12:02 am
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: December 20, 2021, 12:03 am
+message: Error 8 occured on line 24 in file C:\inetpub\wwwroot\trbs_2021\services\api\images\delete.php: Undefined property: stdClass::$id.
+-------------------------
+-------------------------
+time: December 20, 2021, 12:03 am
+message: Error 8 occured on line 24 in file C:\inetpub\wwwroot\trbs_2021\services\api\images\delete.php: Undefined property: stdClass::$id.
+-------------------------
+-------------------------
+time: December 20, 2021, 12:03 am
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: December 20, 2021, 12:03 am
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: December 20, 2021, 12:03 am
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: December 20, 2021, 12:06 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: December 20, 2021, 12:07 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: December 20, 2021, 11:53 am
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: December 20, 2021, 11:57 am
+message: Mail Exception: 5.7.8 Username and Password not accepted. Learn more at
+ 5.7.8  https://support.google.com/mail/?p=BadCredentials j1sm17995166pfu.47 - gsmtp
+
+-------------------------
+-------------------------
+time: December 20, 2021, 12:24 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: December 20, 2021, 7:13 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: December 20, 2021, 9:10 pm
+message: Leaderboard data fetched.
+-------------------------

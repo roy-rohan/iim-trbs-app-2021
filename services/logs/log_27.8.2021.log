@@ -1,0 +1,232 @@
+-------------------------
+time: August 27, 2021, 12:58 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: August 27, 2021, 2:00 pm
+message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'show_in_home_page' cannot be null
+-------------------------
+-------------------------
+time: August 27, 2021, 2:00 pm
+message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'show_in_home_page' cannot be null
+-------------------------
+-------------------------
+time: August 27, 2021, 2:01 pm
+message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'show_in_home_page' cannot be null
+-------------------------
+-------------------------
+time: August 27, 2021, 2:01 pm
+message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'show_in_home_page' cannot be null
+-------------------------
+-------------------------
+time: August 27, 2021, 2:09 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: August 27, 2021, 2:16 pm
+message: Error 8 occured on line 89 in file F:\SERVER\www\iim-app-services\models\Event.php: Undefined index: image_id.
+-------------------------
+-------------------------
+time: August 27, 2021, 2:17 pm
+message: Error 2 occured on line 172 in file F:\SERVER\www\iim-app-services\models\Image.php: unlink(F:\SERVER\www\iim-app-services\models/../): Permission denied.
+-------------------------
+-------------------------
+time: August 27, 2021, 2:17 pm
+message: Event not found with id: 
+-------------------------
+-------------------------
+time: August 27, 2021, 2:18 pm
+message: Event not found with id: 
+-------------------------
+-------------------------
+time: August 27, 2021, 2:18 pm
+message: Event not found with id: 
+-------------------------
+-------------------------
+time: August 27, 2021, 2:18 pm
+message: Event not found with id: 12
+-------------------------
+-------------------------
+time: August 27, 2021, 2:20 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 27, 2021, 2:20 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 27, 2021, 2:21 pm
+message: Coupon data fetched.
+-------------------------
+-------------------------
+time: August 27, 2021, 2:22 pm
+message: Error 8 occured on line 53 in file F:\SERVER\www\iim-app-services\api\users\cart\read_single.php: Undefined property: Cart::$sub_total.
+-------------------------
+-------------------------
+time: August 27, 2021, 2:25 pm
+message: No order found.
+-------------------------
+-------------------------
+time: August 27, 2021, 2:26 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 27, 2021, 2:27 pm
+message: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'field list'
+-------------------------
+-------------------------
+time: August 27, 2021, 2:27 pm
+message: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'field list'
+-------------------------
+-------------------------
+time: August 27, 2021, 2:29 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 27, 2021, 2:31 pm
+message: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'TXN12318293' for column 'transaction_id' at row 1
+-------------------------
+-------------------------
+time: August 27, 2021, 2:31 pm
+message: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'TXN12318293' for column 'transaction_id' at row 1
+-------------------------
+-------------------------
+time: August 27, 2021, 2:32 pm
+message: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'success' for column 'status' at row 1
+-------------------------
+-------------------------
+time: August 27, 2021, 2:32 pm
+message: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'success' for column 'status' at row 1
+-------------------------
+-------------------------
+time: August 27, 2021, 2:32 pm
+message: Order could not be updated.
+-------------------------
+-------------------------
+time: August 27, 2021, 2:33 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 27, 2021, 2:38 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 27, 2021, 2:38 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 27, 2021, 2:43 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 27, 2021, 2:46 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 27, 2021, 6:32 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 27, 2021, 6:35 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: August 27, 2021, 6:55 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 27, 2021, 6:55 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 27, 2021, 6:59 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 27, 2021, 7:19 pm
+message: No cart found.
+-------------------------
+-------------------------
+time: August 27, 2021, 7:19 pm
+message: No cart found.
+-------------------------
+-------------------------
+time: August 27, 2021, 7:19 pm
+message: No cart found.
+-------------------------
+-------------------------
+time: August 27, 2021, 7:22 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 27, 2021, 7:23 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 27, 2021, 7:52 pm
+message: OPTIONS method not allowed
+-------------------------
+-------------------------
+time: August 27, 2021, 7:53 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 27, 2021, 7:53 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 27, 2021, 7:53 pm
+message: OPTIONS method not allowed
+-------------------------
+-------------------------
+time: August 27, 2021, 7:55 pm
+message: Error 8 occured on line 22 in file F:\SERVER\www\iim-app-services\api\users\cart\update.php: Trying to get property 'cart_id' of non-object.
+-------------------------
+-------------------------
+time: August 27, 2021, 7:58 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 27, 2021, 7:58 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 27, 2021, 7:58 pm
+message: OPTIONS method not allowed
+-------------------------
+-------------------------
+time: August 27, 2021, 8:00 pm
+message: No cart found.
+-------------------------
+-------------------------
+time: August 27, 2021, 8:00 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 27, 2021, 8:01 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 27, 2021, 8:01 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 27, 2021, 8:03 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 27, 2021, 8:05 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 27, 2021, 8:06 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 27, 2021, 8:13 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 27, 2021, 8:15 pm
+message: Booking data fetched.
+-------------------------

@@ -1,0 +1,48 @@
+-------------------------
+time: July 30, 2021, 2:27 pm
+message: Error 8 occured on line 44 in file F:\SERVER\www\iim-app-services\api\colleges\read.php: Array to string conversion.
+-------------------------
+-------------------------
+time: July 30, 2021, 3:55 pm
+message: Error 8 occured on line 41 in file F:\SERVER\www\iim-app-services\api\colleges\read.php: Undefined variable: college_id.
+-------------------------
+-------------------------
+time: July 30, 2021, 3:55 pm
+message: Error 8 occured on line 41 in file F:\SERVER\www\iim-app-services\api\colleges\read.php: Undefined variable: college_id.
+-------------------------
+-------------------------
+time: July 30, 2021, 3:56 pm
+message: Error 8 occured on line 37 in file F:\SERVER\www\iim-app-services\api\colleges\read.php: Undefined variable: college_id.
+-------------------------
+-------------------------
+time: July 30, 2021, 3:56 pm
+message: Error 8 occured on line 37 in file F:\SERVER\www\iim-app-services\api\colleges\read.php: Undefined variable: college_id.
+-------------------------
+-------------------------
+time: July 30, 2021, 4:02 pm
+message: Error 8 occured on line 41 in file F:\SERVER\www\iim-app-services\api\colleges\read.php: Undefined variable: college_id.
+-------------------------
+-------------------------
+time: July 30, 2021, 4:20 pm
+message: Error 8 occured on line 19 in file F:\SERVER\www\iim-app-services\utilities\query_utils.php: Trying to get property 'filters' of non-object.
+-------------------------
+-------------------------
+time: July 30, 2021, 5:30 pm
+message: Error 8 occured on line 19 in file F:\SERVER\www\iim-app-services\utilities\query_utils.php: Trying to get property 'filters' of non-object.
+-------------------------
+-------------------------
+time: July 30, 2021, 5:33 pm
+message: Error 8 occured on line 52 in file F:\SERVER\www\iim-app-services\api\colleges\read.php: Array to string conversion.
+-------------------------
+-------------------------
+time: July 30, 2021, 6:36 pm
+message: Error 8 occured on line 56 in file F:\SERVER\www\iim-app-services\api\colleges\read.php: Undefined variable: rows.
+-------------------------
+-------------------------
+time: July 30, 2021, 8:12 pm
+message: Error 2 occured on line 61 in file F:\SERVER\www\iim-app-services\api\colleges\read.php: utf8_encode() expects parameter 1 to be string, array given.
+-------------------------
+-------------------------
+time: July 30, 2021, 8:34 pm
+message: Error 8 occured on line 61 in file F:\SERVER\www\iim-app-services\api\colleges\read.php: Undefined variable: field.
+-------------------------

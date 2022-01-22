@@ -1,0 +1,96 @@
+-------------------------
+time: September 12, 2021, 8:50 am
+message: Error 8 occured on line 53 in file F:\SERVER\www\iim-app-services\api\events\read.php: Undefined variable: organising_club.
+-------------------------
+-------------------------
+time: September 12, 2021, 9:01 am
+message: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '17:15:45' for column 'event_time' at row 1
+-------------------------
+-------------------------
+time: September 12, 2021, 9:01 am
+message: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '17:15:45' for column 'event_time' at row 1
+-------------------------
+-------------------------
+time: September 12, 2021, 9:01 am
+message: SQLSTATE[HY000]: General error: 1366 Incorrect decimal value: 'price' for column 'price' at row 1
+-------------------------
+-------------------------
+time: September 12, 2021, 9:01 am
+message: SQLSTATE[HY000]: General error: 1366 Incorrect decimal value: 'price' for column 'price' at row 1
+-------------------------
+-------------------------
+time: September 12, 2021, 9:06 am
+message: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+-------------------------
+-------------------------
+time: September 12, 2021, 9:06 am
+message: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+-------------------------
+-------------------------
+time: September 12, 2021, 9:07 am
+message: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+-------------------------
+-------------------------
+time: September 12, 2021, 9:07 am
+message: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+-------------------------
+-------------------------
+time: September 12, 2021, 9:08 am
+message: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+-------------------------
+-------------------------
+time: September 12, 2021, 9:08 am
+message: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+-------------------------
+-------------------------
+time: September 12, 2021, 9:09 am
+message: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+-------------------------
+-------------------------
+time: September 12, 2021, 9:09 am
+message: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+-------------------------
+-------------------------
+time: September 12, 2021, 9:09 am
+message: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+-------------------------
+-------------------------
+time: September 12, 2021, 9:09 am
+message: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+-------------------------
+-------------------------
+time: September 12, 2021, 9:11 am
+message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table SET title = 'Event Title 3', type = 'Event Type 2', slug = 'business_event' at line 1
+-------------------------
+-------------------------
+time: September 12, 2021, 9:11 am
+message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table SET title = 'Event Title 3', type = 'Event Type 2', slug = 'business_event' at line 1
+-------------------------
+-------------------------
+time: September 12, 2021, 9:14 am
+message: Error 8 occured on line 101 in file F:\SERVER\www\iim-app-services\models\Common\QueryUtils.php: Undefined property: Event::$tableProperty.
+-------------------------
+-------------------------
+time: September 12, 2021, 9:30 am
+message: PATCH method not allowed.
+-------------------------
+-------------------------
+time: September 12, 2021, 9:51 am
+message: Error 8 occured on line 182 in file F:\SERVER\www\iim-app-services\models\Common\QueryUtils.php: Undefined index: image_path.
+-------------------------
+-------------------------
+time: September 12, 2021, 9:59 am
+message: Error 8 occured on line 33 in file F:\SERVER\www\iim-app-services\api\events\read.php: Undefined variable: event.
+-------------------------
+-------------------------
+time: September 12, 2021, 10:00 am
+message: Error 8 occured on line 37 in file F:\SERVER\www\iim-app-services\api\common\APIUtil.php: Array to string conversion.
+-------------------------
+-------------------------
+time: September 12, 2021, 10:00 am
+message: Error 8 occured on line 37 in file F:\SERVER\www\iim-app-services\api\common\APIUtil.php: Array to string conversion.
+-------------------------
+-------------------------
+time: September 12, 2021, 10:20 am
+message: Error 8 occured on line 75 in file F:\SERVER\www\iim-app-services\api\common\APIUtil.php: Undefined property: stdClass::$created_at.
+-------------------------

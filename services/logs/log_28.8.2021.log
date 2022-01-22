@@ -1,0 +1,356 @@
+-------------------------
+time: August 28, 2021, 5:30 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: August 28, 2021, 5:30 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 5:32 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 6:06 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 6:07 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 6:20 am
+message: SQLSTATE[HY000]: General error: 1366 Incorrect decimal value: '' for column 'total' at row 1
+-------------------------
+-------------------------
+time: August 28, 2021, 6:20 am
+message: SQLSTATE[HY000]: General error: 1366 Incorrect decimal value: '' for column 'total' at row 1
+-------------------------
+-------------------------
+time: August 28, 2021, 6:21 am
+message: SQLSTATE[HY000]: General error: 1366 Incorrect decimal value: '' for column 'total' at row 1
+-------------------------
+-------------------------
+time: August 28, 2021, 6:21 am
+message: SQLSTATE[HY000]: General error: 1366 Incorrect decimal value: '' for column 'total' at row 1
+-------------------------
+-------------------------
+time: August 28, 2021, 6:26 am
+message: Error 8 occured on line 26 in file F:\SERVER\www\iim-app-services\api\users\cart\update.php: Undefined property: stdClass::$discount.
+-------------------------
+-------------------------
+time: August 28, 2021, 6:27 am
+message: Error 8 occured on line 22 in file F:\SERVER\www\iim-app-services\api\users\cart\update.php: Trying to get property 'cart_id' of non-object.
+-------------------------
+-------------------------
+time: August 28, 2021, 6:38 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: August 28, 2021, 7:01 am
+message: Error 8 occured on line 78 in file F:\SERVER\www\iim-app-services\models\User\Cart\Cart.php: Undefined index: sub_total.
+-------------------------
+-------------------------
+time: August 28, 2021, 7:02 am
+message: Error 8 occured on line 27 in file F:\SERVER\www\iim-app-services\api\users\cart\update.php: Undefined property: stdClass::$sub_total.
+-------------------------
+-------------------------
+time: August 28, 2021, 7:06 am
+message: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+-------------------------
+-------------------------
+time: August 28, 2021, 7:06 am
+message: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+-------------------------
+-------------------------
+time: August 28, 2021, 7:25 am
+message: Coupon data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 7:25 am
+message: Error 8 occured on line 32 in file F:\SERVER\www\iim-app-services\models\Common\QueryUtils.php: Undefined property: stdClass::$op.
+-------------------------
+-------------------------
+time: August 28, 2021, 7:26 am
+message: Coupon data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 7:27 am
+message: Error 8 occured on line 26 in file F:\SERVER\www\iim-app-services\models\Common\QueryUtils.php: Undefined property: stdClass::$filter_op.
+-------------------------
+-------------------------
+time: August 28, 2021, 7:27 am
+message: Coupon data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 7:52 am
+message: POST method not allowed.
+-------------------------
+-------------------------
+time: August 28, 2021, 7:55 am
+message: Coupon data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 7:55 am
+message: Error 8 occured on line 28 in file F:\SERVER\www\iim-app-services\api\users\cart\update.php: Undefined property: stdClass::$coupon_id.
+-------------------------
+-------------------------
+time: August 28, 2021, 7:57 am
+message: Coupon data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 7:58 am
+message: Coupon data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 8:00 am
+message: Coupon data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 8:01 am
+message: Coupon data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 8:04 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 8:04 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 8:04 am
+message: Coupon data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 8:04 am
+message: Error 8 occured on line 33 in file F:\SERVER\www\iim-app-services\api\users\cart\update.php: Undefined property: stdClass::$state.
+-------------------------
+-------------------------
+time: August 28, 2021, 8:07 am
+message: Coupon data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 8:07 am
+message: Error 8 occured on line 33 in file F:\SERVER\www\iim-app-services\api\users\cart\update.php: Undefined property: stdClass::$state.
+-------------------------
+-------------------------
+time: August 28, 2021, 8:17 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 9:06 am
+message: Coupon data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 9:06 am
+message: Error 8 occured on line 33 in file F:\SERVER\www\iim-app-services\api\users\cart\update.php: Undefined property: stdClass::$state.
+-------------------------
+-------------------------
+time: August 28, 2021, 9:07 am
+message: Coupon data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 9:07 am
+message: Error 8 occured on line 33 in file F:\SERVER\www\iim-app-services\api\users\cart\update.php: Undefined property: stdClass::$state.
+-------------------------
+-------------------------
+time: August 28, 2021, 9:10 am
+message: Coupon data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 9:13 am
+message: Coupon data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 9:14 am
+message: Coupon data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 9:14 am
+message: Coupon data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 9:16 am
+message: Coupon data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 9:17 am
+message: Coupon data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 9:43 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 9:58 am
+message: Coupon data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 10:06 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 10:27 am
+message: Coupon data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 10:32 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 10:33 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 10:36 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 10:39 am
+message: Wrong number of segments
+-------------------------
+-------------------------
+time: August 28, 2021, 10:39 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 10:44 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 10:46 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 10:46 am
+message: No Image found.
+-------------------------
+-------------------------
+time: August 28, 2021, 10:48 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 10:49 am
+message: Wrong number of segments
+-------------------------
+-------------------------
+time: August 28, 2021, 10:49 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 10:50 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 10:51 am
+message: Wrong number of segments
+-------------------------
+-------------------------
+time: August 28, 2021, 10:51 am
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: August 28, 2021, 10:52 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 10:52 am
+message: Wrong number of segments
+-------------------------
+-------------------------
+time: August 28, 2021, 10:52 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 10:53 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 10:53 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 10:53 am
+message: Wrong number of segments
+-------------------------
+-------------------------
+time: August 28, 2021, 10:54 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 10:54 am
+message: Wrong number of segments
+-------------------------
+-------------------------
+time: August 28, 2021, 10:55 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 5:28 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 5:28 pm
+message: Expired token
+-------------------------
+-------------------------
+time: August 28, 2021, 5:28 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: August 28, 2021, 5:29 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 5:29 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 6:01 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 6:14 pm
+message: Error 2 occured on line 53 in file F:\SERVER\www\iim-app-services\api\images\update.php: A non-numeric value encountered.
+-------------------------
+-------------------------
+time: August 28, 2021, 6:14 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 6:15 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 6:15 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 6:15 pm
+message: Error 2 occured on line 53 in file F:\SERVER\www\iim-app-services\api\images\update.php: A non-numeric value encountered.
+-------------------------
+-------------------------
+time: August 28, 2021, 6:16 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 6:17 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 6:17 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 6:18 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 6:19 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 28, 2021, 6:19 pm
+message: Booking data fetched.
+-------------------------

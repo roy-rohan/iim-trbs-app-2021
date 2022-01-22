@@ -1,0 +1,100 @@
+-------------------------
+time: July 28, 2021, 4:40 pm
+message: Error 8 occured on line 25 in file F:\SERVER\www\iim-app-services\api\images\create.php: Undefined index: image_upload.
+-------------------------
+-------------------------
+time: July 28, 2021, 4:42 pm
+message: Error 8 occured on line 25 in file F:\SERVER\www\iim-app-services\api\images\create.php: Undefined index: image_upload.
+-------------------------
+-------------------------
+time: July 28, 2021, 4:43 pm
+message: Error 8 occured on line 25 in file F:\SERVER\www\iim-app-services\api\images\create.php: Array to string conversion.
+-------------------------
+-------------------------
+time: July 28, 2021, 4:43 pm
+message: Error 8 occured on line 23 in file F:\SERVER\www\iim-app-services\api\images\create.php: Array to string conversion.
+-------------------------
+-------------------------
+time: July 28, 2021, 4:44 pm
+message: Error 8 occured on line 23 in file F:\SERVER\www\iim-app-services\api\images\create.php: Undefined index: image_upload.
+-------------------------
+-------------------------
+time: July 28, 2021, 4:45 pm
+message: Error 8 occured on line 23 in file F:\SERVER\www\iim-app-services\api\images\create.php: Undefined index: image_upload.
+-------------------------
+-------------------------
+time: July 28, 2021, 4:47 pm
+message: Error 8 occured on line 27 in file F:\SERVER\www\iim-app-services\api\images\create.php: Undefined index: image_upload.
+-------------------------
+-------------------------
+time: July 28, 2021, 5:03 pm
+message: Error 8 occured on line 24 in file F:\SERVER\www\iim-app-services\api\images\create.php: Array to string conversion.
+-------------------------
+-------------------------
+time: July 28, 2021, 5:10 pm
+message: Error 2 occured on line 45 in file F:\SERVER\www\iim-app-services\api\images\create.php: move_uploaded_file(uploads/395402-photo.jpeg): failed to open stream: No such file or directory.
+-------------------------
+-------------------------
+time: July 28, 2021, 5:14 pm
+message: Error 8 occured on line 47 in file F:\SERVER\www\iim-app-services\api\images\create.php: Undefined variable: public_upload_name.
+-------------------------
+-------------------------
+time: July 28, 2021, 5:18 pm
+message: Error 8 occured on line 48 in file F:\SERVER\www\iim-app-services\api\images\create.php: Undefined index: upload_type.
+-------------------------
+-------------------------
+time: July 28, 2021, 6:39 pm
+message: Error 8 occured on line 21 in file F:\SERVER\www\iim-app-services\api\events\create.php: Trying to get property 'title' of non-object.
+-------------------------
+-------------------------
+time: July 28, 2021, 6:39 pm
+message: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+-------------------------
+-------------------------
+time: July 28, 2021, 6:40 pm
+message: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+-------------------------
+-------------------------
+time: July 28, 2021, 6:42 pm
+message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order = 'order',  is_active = '1', team_size = '4', created_at = '2021-07-28 18:' at line 1
+-------------------------
+-------------------------
+time: July 28, 2021, 6:45 pm
+message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order = '1',  is_active = '1', team_size = '4', created_at = '2021-07-28 18:45:2' at line 1
+-------------------------
+-------------------------
+time: July 28, 2021, 6:51 pm
+message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order = '1',  is_active = '1', team_size = '4', created_at = '2021-07-28 18:51:2' at line 1
+-------------------------
+-------------------------
+time: July 28, 2021, 6:51 pm
+message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order = '1',  is_active = '1', team_size = '4', created_at = '2021-07-28 18:51:4' at line 1
+-------------------------
+-------------------------
+time: July 28, 2021, 6:52 pm
+message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order = '1',  is_active = '1', team_size = 'team-size', created_at = '2021-07-28' at line 1
+-------------------------
+-------------------------
+time: July 28, 2021, 6:52 pm
+message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order = '1',  is_active = '1', team_size = 'team-size', created_at = '2021-07-28' at line 1
+-------------------------
+-------------------------
+time: July 28, 2021, 6:54 pm
+message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order = '1',  is_active = '1', team_size = 'team-size', created_at = '2021-07-28' at line 1
+-------------------------
+-------------------------
+time: July 28, 2021, 6:55 pm
+message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order = '1',  is_active = '1', team_size = 'team-size', created_at = '2021-07-28' at line 1
+-------------------------
+-------------------------
+time: July 28, 2021, 6:56 pm
+message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order = '1',  is_active = '1', team_size = 'team-size', created_at = '2021-07-28' at line 1
+-------------------------
+-------------------------
+time: July 28, 2021, 6:56 pm
+message: Error 4096 occured on line 170 in file F:\SERVER\www\iim-app-services\models\Event.php: Object of class PDOStatement could not be converted to string.
+-------------------------
+-------------------------
+time: July 28, 2021, 6:57 pm
+message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order = '1',  is_active = '1', team_size = 'team-size', created_at = '2021-07-28' at line 1
+-------------------------

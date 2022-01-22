@@ -1,0 +1,648 @@
+-------------------------
+time: August 29, 2021, 5:22 am
+message: Username/Password not valid.
+-------------------------
+-------------------------
+time: August 29, 2021, 5:23 am
+message: Username/Password not valid.
+-------------------------
+-------------------------
+time: August 29, 2021, 5:23 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 9:05 am
+message: Error 8 occured on line 12 in file F:\SERVER\www\iim-app-services\api\payments\initiate_payment.php: Undefined variable: t.
+-------------------------
+-------------------------
+time: August 29, 2021, 9:25 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 9:44 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 9:47 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 9:50 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 9:54 am
+message: Error 8 occured on line 43 in file F:\SERVER\www\iim-app-services\api\users\order\create.php: Undefined property: stdClass::$user_id.
+-------------------------
+-------------------------
+time: August 29, 2021, 9:56 am
+message: SQLSTATE[HY000]: General error: 1366 Incorrect decimal value: '' for column 'discount' at row 1
+-------------------------
+-------------------------
+time: August 29, 2021, 9:56 am
+message: SQLSTATE[HY000]: General error: 1366 Incorrect decimal value: '' for column 'discount' at row 1
+-------------------------
+-------------------------
+time: August 29, 2021, 9:58 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 10:29 am
+message: No authentication token found
+-------------------------
+-------------------------
+time: August 29, 2021, 10:30 am
+message: Error 8 occured on line 34 in file F:\SERVER\www\iim-app-services\api\payments\initiate_payment.php: Undefined property: stdClass::$mobile.
+-------------------------
+-------------------------
+time: August 29, 2021, 10:31 am
+message: Something went wrong.
+-------------------------
+-------------------------
+time: August 29, 2021, 10:32 am
+message: Something went wrong.
+-------------------------
+-------------------------
+time: August 29, 2021, 10:36 am
+message: Something went wrong.https://payments.iima.ac.in/online/app/transaction/b3d6QzZ6OTJtY2VLaVBqYzZSUGQ1Zz09
+-------------------------
+-------------------------
+time: August 29, 2021, 10:48 am
+message: 200Something went wrong.https://payments.iima.ac.in/online/app/transaction/VEZwMEhQSTVZak1iWGNvSytYL25IZz09
+-------------------------
+-------------------------
+time: August 29, 2021, 10:51 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 10:56 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 10:56 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 10:57 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 11:00 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 11:00 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 11:01 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 11:01 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 11:03 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 11:04 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 11:04 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 11:07 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 11:08 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 11:08 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 11:09 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 11:12 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 11:14 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 11:14 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 11:19 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 11:19 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 11:59 am
+message: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'amount' at row 1
+-------------------------
+-------------------------
+time: August 29, 2021, 11:59 am
+message: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'amount' at row 1
+-------------------------
+-------------------------
+time: August 29, 2021, 11:59 am
+message: Expired token
+-------------------------
+-------------------------
+time: August 29, 2021, 11:59 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 12:01 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 12:01 pm
+message: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'success' for column 'status' at row 1
+-------------------------
+-------------------------
+time: August 29, 2021, 12:01 pm
+message: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'success' for column 'status' at row 1
+-------------------------
+-------------------------
+time: August 29, 2021, 12:01 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 12:03 pm
+message: Order could not be updated.
+-------------------------
+-------------------------
+time: August 29, 2021, 12:03 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 12:08 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 12:09 pm
+message: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'coupon' in 'field list'
+-------------------------
+-------------------------
+time: August 29, 2021, 12:09 pm
+message: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'coupon' in 'field list'
+-------------------------
+-------------------------
+time: August 29, 2021, 12:09 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 12:13 pm
+message: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'coupon' in 'field list'
+-------------------------
+-------------------------
+time: August 29, 2021, 12:13 pm
+message: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'coupon' in 'field list'
+-------------------------
+-------------------------
+time: August 29, 2021, 12:13 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 12:14 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 12:15 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: August 29, 2021, 12:27 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 12:49 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 12:50 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 1:00 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 1:01 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 1:04 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: August 29, 2021, 1:05 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: August 29, 2021, 4:00 pm
+message: No order found.
+-------------------------
+-------------------------
+time: August 29, 2021, 4:00 pm
+message: Error 8 occured on line 24 in file F:\SERVER\www\iim-app-services\api\users\order\read_single.php: Undefined variable: data.
+-------------------------
+-------------------------
+time: August 29, 2021, 5:15 pm
+message: POST method not allowed
+-------------------------
+-------------------------
+time: August 29, 2021, 6:09 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 6:09 pm
+message: Expired token
+-------------------------
+-------------------------
+time: August 29, 2021, 6:09 pm
+message: Expired token
+-------------------------
+-------------------------
+time: August 29, 2021, 6:09 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 6:10 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 6:10 pm
+message: Expired token
+-------------------------
+-------------------------
+time: August 29, 2021, 6:22 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 6:25 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 6:25 pm
+message: Expired token
+-------------------------
+-------------------------
+time: August 29, 2021, 6:28 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 6:28 pm
+message: Expired token
+-------------------------
+-------------------------
+time: August 29, 2021, 6:33 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 6:33 pm
+message: Expired token
+-------------------------
+-------------------------
+time: August 29, 2021, 6:41 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 6:42 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 6:42 pm
+message: Expired token
+-------------------------
+-------------------------
+time: August 29, 2021, 7:28 pm
+message: Error 8 occured on line 24 in file F:\SERVER\www\iim-app-services\api\payments\create.php: Undefined property: stdClass::$order_id.
+-------------------------
+-------------------------
+time: August 29, 2021, 7:31 pm
+message: Error 8 occured on line 24 in file F:\SERVER\www\iim-app-services\api\payments\create.php: Undefined property: stdClass::$order_id.
+-------------------------
+-------------------------
+time: August 29, 2021, 7:32 pm
+message: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'success' for column 'status' at row 1
+-------------------------
+-------------------------
+time: August 29, 2021, 7:32 pm
+message: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'success' for column 'status' at row 1
+-------------------------
+-------------------------
+time: August 29, 2021, 7:34 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 7:34 pm
+message: Expired token
+-------------------------
+-------------------------
+time: August 29, 2021, 7:35 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 7:35 pm
+message: Expired token
+-------------------------
+-------------------------
+time: August 29, 2021, 7:36 pm
+message: Expired token
+-------------------------
+-------------------------
+time: August 29, 2021, 7:36 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 7:36 pm
+message: Expired token
+-------------------------
+-------------------------
+time: August 29, 2021, 7:36 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 7:37 pm
+message: Expired token
+-------------------------
+-------------------------
+time: August 29, 2021, 7:37 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 7:37 pm
+message: Expired token
+-------------------------
+-------------------------
+time: August 29, 2021, 7:37 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 7:41 pm
+message: Expired token
+-------------------------
+-------------------------
+time: August 29, 2021, 7:41 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 7:44 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 7:44 pm
+message: Expired token
+-------------------------
+-------------------------
+time: August 29, 2021, 7:44 pm
+message: Expired token
+-------------------------
+-------------------------
+time: August 29, 2021, 7:44 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 7:44 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 7:45 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 7:45 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 7:54 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 7:56 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 7:56 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:03 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: August 29, 2021, 8:03 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:03 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:04 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:07 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:10 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:15 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:15 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:34 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:34 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:44 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:44 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:50 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:50 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:50 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:50 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:50 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:50 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:51 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:51 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:51 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:52 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:52 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:52 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:53 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:53 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:54 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:55 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:56 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:58 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 8:59 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 9:00 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 9:00 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 9:00 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 9:02 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 9:03 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 9:04 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 9:04 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 9:04 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 9:04 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 9:04 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 9:06 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 9:07 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 9:08 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 9:09 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: August 29, 2021, 9:10 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 9:14 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 9:16 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 9:18 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 9:18 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: August 29, 2021, 9:18 pm
+message: Leaderboard data fetched.
+-------------------------

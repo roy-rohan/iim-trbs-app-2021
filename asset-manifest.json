@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d5b6dbd3.chunk.css",
+    "main.js": "./static/js/main.42c640d5.chunk.js",
+    "main.js.map": "./static/js/main.42c640d5.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.7227cdd4.js",
+    "runtime-main.js.map": "./static/js/runtime-main.7227cdd4.js.map",
+    "static/css/2.ece818ef.chunk.css": "./static/css/2.ece818ef.chunk.css",
+    "static/js/2.68fe3377.chunk.js": "./static/js/2.68fe3377.chunk.js",
+    "static/js/2.68fe3377.chunk.js.map": "./static/js/2.68fe3377.chunk.js.map",
+    "static/js/3.f30b921c.chunk.js": "./static/js/3.f30b921c.chunk.js",
+    "static/js/3.f30b921c.chunk.js.map": "./static/js/3.f30b921c.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.ece818ef.chunk.css.map": "./static/css/2.ece818ef.chunk.css.map",
+    "static/css/main.d5b6dbd3.chunk.css.map": "./static/css/main.d5b6dbd3.chunk.css.map",
+    "static/js/2.68fe3377.chunk.js.LICENSE.txt": "./static/js/2.68fe3377.chunk.js.LICENSE.txt",
+    "static/media/AboutUs.13f3b7b6.PNG": "./static/media/AboutUs.13f3b7b6.PNG",
+    "static/media/index.css": "./static/media/OpenSans-SemiBold.a16d8201.ttf",
+    "static/media/PNF.4f8f652c.jpg": "./static/media/PNF.4f8f652c.jpg",
+    "static/media/Home.module.css": "./static/media/SpeakersBackround.84c6990f.jpg",
+    "static/media/iim-logo.a0a99168.png": "./static/media/iim-logo.a0a99168.png",
+    "static/media/loader.a8cea38d.gif": "./static/media/loader.a8cea38d.gif",
+    "static/media/logo.7d098ed5.png": "./static/media/logo.7d098ed5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7227cdd4.js",
+    "static/css/2.ece818ef.chunk.css",
+    "static/js/2.68fe3377.chunk.js",
+    "static/css/main.d5b6dbd3.chunk.css",
+    "static/js/main.42c640d5.chunk.js"
+  ]
+}

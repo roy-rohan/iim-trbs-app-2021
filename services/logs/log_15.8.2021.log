@@ -1,0 +1,36 @@
+-------------------------
+time: August 15, 2021, 5:49 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: August 15, 2021, 8:29 am
+message: Expired token
+-------------------------
+-------------------------
+time: August 15, 2021, 9:33 am
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: August 15, 2021, 10:52 am
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: August 15, 2021, 10:52 am
+message: Wrong number of segments
+-------------------------
+-------------------------
+time: August 15, 2021, 4:14 pm
+message: Mail Exception: cannot connect to host; error = stream_socket_client(): unable to connect to tcp://smtp-relay.sendinblue.com:587 (php_network_getaddresses: getaddrinfo failed: No such host is known. ) (errno = 0 )
+-------------------------
+-------------------------
+time: August 15, 2021, 5:22 pm
+message: Username/Password not valid.
+-------------------------
+-------------------------
+time: August 15, 2021, 6:46 pm
+message: Username/Password not valid.
+-------------------------
+-------------------------
+time: August 15, 2021, 6:46 pm
+message: Username/Password not valid.
+-------------------------

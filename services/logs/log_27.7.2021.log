@@ -1,0 +1,292 @@
+-------------------------
+time: July 27, 2021, 7:53 am
+message: Error 2 occured on line 52 in file F:\SERVER\www\iim-app-services\api\interested-users\read.php: array_push() expects parameter 1 to be array, null given.
+-------------------------
+-------------------------
+time: July 27, 2021, 7:53 am
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 7:54 am
+message: Error 2 occured on line 52 in file F:\SERVER\www\iim-app-services\api\interested-users\read.php: array_push() expects parameter 1 to be array, null given.
+-------------------------
+-------------------------
+time: July 27, 2021, 7:56 am
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 8:36 am
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 8:37 am
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 9:00 am
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 9:08 am
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 9:09 am
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 9:09 am
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 10:13 am
+message: Error 8 occured on line 27 in file F:\SERVER\www\iim-app-services\api\interested-users\read-single.php: Undefined variable: id.
+-------------------------
+-------------------------
+time: July 27, 2021, 10:18 am
+message: Error 2 occured on line 98 in file F:\SERVER\www\iim-app-services\vendor\laminas\laminas-stdlib\src\Parameters.php: Illegal offset type.
+-------------------------
+-------------------------
+time: July 27, 2021, 10:18 am
+message: Error 2 occured on line 98 in file F:\SERVER\www\iim-app-services\vendor\laminas\laminas-stdlib\src\Parameters.php: Illegal offset type.
+-------------------------
+-------------------------
+time: July 27, 2021, 12:59 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 1:02 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 1:07 pm
+message: Error 8 occured on line 19 in file F:\SERVER\www\iim-app-services\api\interested-users\create.php: Undefined property: Laminas\Http\Request::$isPost.
+-------------------------
+-------------------------
+time: July 27, 2021, 1:47 pm
+message: Error 4096 occured on line 21 in file F:\SERVER\www\iim-app-services\api\interested-users\create.php: Object of class Laminas\Http\Headers could not be converted to string.
+-------------------------
+-------------------------
+time: July 27, 2021, 3:13 pm
+message: Error 8 occured on line 66 in file F:\SERVER\www\iim-app-services\api\interested-users\read.php: Undefined variable: request.
+-------------------------
+-------------------------
+time: July 27, 2021, 3:14 pm
+message: Error 8 occured on line 23 in file F:\SERVER\www\iim-app-services\api\interested-users\read.php: Trying to get property 'filters' of non-object.
+-------------------------
+-------------------------
+time: July 27, 2021, 3:15 pm
+message: Error 8 occured on line 23 in file F:\SERVER\www\iim-app-services\api\interested-users\read.php: Undefined property: stdClass::$filters.
+-------------------------
+-------------------------
+time: July 27, 2021, 3:15 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 3:16 pm
+message: Error 2 occured on line 39 in file F:\SERVER\www\iim-app-services\models\InterestedUser.php: count(): Parameter must be an array or an object that implements Countable.
+-------------------------
+-------------------------
+time: July 27, 2021, 3:28 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 3:30 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 3:31 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 3:31 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 3:32 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 3:59 pm
+message: Error 8 occured on line 32 in file F:\SERVER\www\iim-app-services\models\InterestedUser.php: Trying to get property 'filters' of non-object.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:00 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:00 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:03 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:04 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:06 pm
+message: Error 8 occured on line 40 in file F:\SERVER\www\iim-app-services\models\InterestedUser.php: Undefined property: stdClass::$filters.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:06 pm
+message: Error 8 occured on line 40 in file F:\SERVER\www\iim-app-services\models\InterestedUser.php: Trying to get property 'filters' of non-object.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:06 pm
+message: Error 8 occured on line 41 in file F:\SERVER\www\iim-app-services\models\InterestedUser.php: Undefined property: stdClass::$sort.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:07 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:10 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:10 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:14 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:15 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:15 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:17 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:23 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:24 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:25 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:27 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:28 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:39 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:39 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:40 pm
+message: Error 2 occured on line 77 in file F:\SERVER\www\iim-app-services\utilities\query_utils.php: json_decode() expects parameter 1 to be string, array given.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:46 pm
+message: Error 2 occured on line 3 in file F:\SERVER\www\iim-app-services\utilities\query_utils.php: include_once(F:\SERVER\www\iim-app-services\utilities/../../models/CustomException.php): failed to open stream: No such file or directory.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:47 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:47 pm
+message: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'firsname' in 'where clause'
+-------------------------
+-------------------------
+time: July 27, 2021, 4:47 pm
+message: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'firsname' in 'where clause'
+-------------------------
+-------------------------
+time: July 27, 2021, 4:47 pm
+message: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'firsname' in 'where clause'
+-------------------------
+-------------------------
+time: July 27, 2021, 4:47 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:54 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:55 pm
+message: Error 8 occured on line 26 in file F:\SERVER\www\iim-app-services\api\interested-users\delete.php: Trying to get property 'id' of non-object.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:56 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 4:57 pm
+message: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_a' in 'order clause'
+-------------------------
+-------------------------
+time: July 27, 2021, 4:58 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 5:01 pm
+message: Error 8 occured on line 205 in file F:\SERVER\www\iim-app-services\models\InterestedUser.php: Undefined property: PDOStatement::$error.
+-------------------------
+-------------------------
+time: July 27, 2021, 5:10 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 5:11 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 5:11 pm
+message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'updated_at = '2021-07-27 17:11:31' WHERE interested_user_id = '7'' at line 1
+-------------------------
+-------------------------
+time: July 27, 2021, 5:12 pm
+message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'updated_at = '2021-07-27 17:12:36' WHERE interested_user_id = '7'' at line 1
+-------------------------
+-------------------------
+time: July 27, 2021, 5:12 pm
+message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'updated_at = '2021-07-27 17:12:44' WHERE interested_user_id = '7'' at line 1
+-------------------------
+-------------------------
+time: July 27, 2021, 5:15 pm
+message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'updated_at = '2021-07-27 17:15:59' WHERE interested_user_id = '7'' at line 1
+-------------------------
+-------------------------
+time: July 27, 2021, 5:16 pm
+message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'updated_at = '2021-07-27 17:16:48' WHERE interested_user_id = '7'' at line 1
+-------------------------
+-------------------------
+time: July 27, 2021, 5:16 pm
+message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'updated_at = '2021-07-27 17:16:49' WHERE interested_user_id = '7'' at line 1
+-------------------------
+-------------------------
+time: July 27, 2021, 5:17 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 5:18 pm
+message: User data fetched.
+-------------------------
+-------------------------
+time: July 27, 2021, 8:33 pm
+message: Error 8 occured on line 19 in file F:\SERVER\www\iim-app-services\utilities\query_utils.php: Trying to get property 'filters' of non-object.
+-------------------------

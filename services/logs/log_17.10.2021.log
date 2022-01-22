@@ -1,0 +1,2044 @@
+-------------------------
+time: October 17, 2021, 12:04 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 12:58 am
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 12:58 am
+message: Expired token
+-------------------------
+-------------------------
+time: October 17, 2021, 1:04 am
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 1:07 am
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 1:08 am
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 1:24 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 1:40 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 1:40 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 1:41 am
+message: Error 2 occured on line 21 in file C:\inetpub\wwwroot\trbs_2021\services\api\contact-role\create.php: Creating default object from empty value.
+-------------------------
+-------------------------
+time: October 17, 2021, 1:41 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 1:41 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 1:44 am
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 1:48 am
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 1:53 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 1:55 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 2:08 am
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:08 am
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:09 am
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:09 am
+message: Error 8 occured on line 35 in file C:\inetpub\wwwroot\trbs_2021\services\api\contact-person\read.php: Undefined property: ContactRole::$poc.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:10 am
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:11 am
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:11 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 2:12 am
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:13 am
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:14 am
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:14 am
+message: Error 8 occured on line 42 in file C:\inetpub\wwwroot\trbs_2021\services\api\contact-role\read.php: Undefined index: contact_person_id.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:15 am
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:16 am
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:17 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 2:17 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 2:17 am
+message: Error 8 occured on line 21 in file C:\inetpub\wwwroot\trbs_2021\services\api\contact-person\read_single.php: Trying to get property of non-object.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:18 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 2:18 am
+message: Error 8 occured on line 21 in file C:\inetpub\wwwroot\trbs_2021\services\api\contact-person\read_single.php: Undefined property: stdClass::$contact_role_id.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:22 am
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:25 am
+message: Error 8 occured on line 29 in file C:\inetpub\wwwroot\trbs_2021\services\api\contact-person\update.php: Undefined property: ContactRole::$contact_person_id.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:25 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 2:25 am
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:26 am
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:26 am
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:27 am
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:27 am
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:27 am
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:28 am
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:29 am
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:29 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 2:30 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 2:30 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 2:35 am
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:36 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 2:36 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 2:37 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 5:39 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:10 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 9:20 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 9:20 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 9:51 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 9:51 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 10:26 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 10:57 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 11:12 am
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 12:04 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 12:35 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 12:58 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 12:58 pm
+message: About Page Information not found.
+-------------------------
+-------------------------
+time: October 17, 2021, 12:59 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 12:59 pm
+message: About Page Information not found.
+-------------------------
+-------------------------
+time: October 17, 2021, 12:59 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 1:01 pm
+message: About Page Information not found.
+-------------------------
+-------------------------
+time: October 17, 2021, 1:02 pm
+message: About Page Information not found.
+-------------------------
+-------------------------
+time: October 17, 2021, 1:10 pm
+message: About Page Information not found.
+-------------------------
+-------------------------
+time: October 17, 2021, 1:11 pm
+message: About Page Information not found.
+-------------------------
+-------------------------
+time: October 17, 2021, 1:13 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 1:16 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 1:24 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 1:35 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 1:53 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 1:53 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 1:56 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 1:58 pm
+message: About Page Information not found.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:15 pm
+message: Expired token
+-------------------------
+-------------------------
+time: October 17, 2021, 2:21 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:23 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 2:26 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:27 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 2:28 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:29 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 2:30 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:31 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 2:31 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 2:32 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:33 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:34 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 2:36 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:50 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:51 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:52 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:55 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:55 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:56 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:57 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:57 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:57 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:58 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:58 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:59 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 2:59 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 3:00 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 3:00 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:00 pm
+message: Error 8 occured on line 20 in file C:\inetpub\wwwroot\trbs_2021\services\api\contact-person\delete.php: Undefined property: stdClass::$contact_person_id.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:01 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 3:01 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:01 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 3:01 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 3:01 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:02 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 3:03 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 3:04 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:04 pm
+message: Contact Person Role not found.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:04 pm
+message: Error 8 occured on line 21 in file C:\inetpub\wwwroot\trbs_2021\services\api\contact-person\read_single.php: Undefined property: stdClass::$contact_role_id.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:04 pm
+message: Contact Person Role not found.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:04 pm
+message: Contact Person Role not found.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:05 pm
+message: Contact Person Information not found.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:05 pm
+message: Contact Person Role not found.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:05 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:05 pm
+message: Contact Person Role not found.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:07 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 3:13 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:14 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:14 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:14 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:14 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 3:14 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:15 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:15 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 3:15 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:16 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:16 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 3:16 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 3:16 pm
+message: Error 8 occured on line 29 in file C:\inetpub\wwwroot\trbs_2021\services\api\contact-person\update.php: Undefined property: stdClass::$contact_person_id.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:17 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:17 pm
+message: Error 8 occured on line 29 in file C:\inetpub\wwwroot\trbs_2021\services\api\contact-person\update.php: Undefined property: stdClass::$contact_person_id.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:17 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:17 pm
+message: Error 8 occured on line 29 in file C:\inetpub\wwwroot\trbs_2021\services\api\contact-person\update.php: Undefined property: stdClass::$contact_person_id.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:18 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:18 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:19 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:19 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:19 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:22 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:22 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 3:25 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 4:00 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 4:02 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 4:06 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 4:07 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 4:07 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 4:08 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 4:08 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 4:08 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 4:10 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 4:10 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 4:10 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 4:10 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 4:10 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 4:11 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 4:11 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 4:11 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 4:12 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 4:14 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 4:29 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 4:32 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 4:41 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 4:48 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 4:50 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 4:52 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 4:52 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 4:53 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 4:53 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 4:56 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 4:56 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 4:56 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 4:58 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 4:58 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 4:58 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 5:00 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:01 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 5:01 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 5:02 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 5:04 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 5:06 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 5:15 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:16 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:17 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:24 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 5:31 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 5:31 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 5:31 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:32 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 5:32 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 5:33 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 5:33 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 5:35 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:37 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:38 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:38 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:38 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:38 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:38 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:38 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:38 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:38 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:38 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:38 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:38 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:38 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:38 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:38 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:38 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:38 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:38 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:38 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 5:45 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:01 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:02 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:02 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:03 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:03 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:03 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:03 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:03 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:04 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:04 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:04 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:04 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:04 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:04 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:05 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:05 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:05 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:05 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:06 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:06 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:06 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:06 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:06 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:07 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:07 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:07 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:07 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:07 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:07 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:07 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:07 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:07 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:08 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:08 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:08 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:08 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:10 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:10 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:10 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:11 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:11 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:11 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:12 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:12 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:12 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:13 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:13 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:13 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:13 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:13 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:13 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:13 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:13 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:13 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:17 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:21 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:21 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:23 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:23 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:23 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:24 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:24 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:24 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:25 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:25 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:25 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:26 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:26 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:26 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:26 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:26 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:27 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:27 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:27 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:29 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:37 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:37 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:37 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:41 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:42 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:42 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:42 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:42 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:43 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:43 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:43 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:44 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:44 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:44 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:44 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:44 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:44 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 6:45 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:46 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:46 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:52 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:52 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:54 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 6:54 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 7:05 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 7:05 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 7:18 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 7:29 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 7:34 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 7:34 pm
+message: Expired token
+-------------------------
+-------------------------
+time: October 17, 2021, 7:43 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 7:54 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 8:02 pm
+message: Expired token
+-------------------------
+-------------------------
+time: October 17, 2021, 8:02 pm
+message: Expired token
+-------------------------
+-------------------------
+time: October 17, 2021, 8:02 pm
+message: Expired token
+-------------------------
+-------------------------
+time: October 17, 2021, 8:02 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 8:17 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 9:04 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 9:20 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 9:22 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 9:23 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 9:24 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 9:25 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 9:25 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 9:25 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 9:30 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 9:32 pm
+message: No Image found.
+-------------------------
+-------------------------
+time: October 17, 2021, 9:34 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 9:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 9:36 pm
+message: Booking data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 9:38 pm
+message: No Image found.
+-------------------------
+-------------------------
+time: October 17, 2021, 9:38 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 9:39 pm
+message: No Image found.
+-------------------------
+-------------------------
+time: October 17, 2021, 9:40 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 9:40 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 9:41 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 9:41 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 9:43 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 9:45 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 9:45 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 9:46 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 9:50 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 9:54 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 9:55 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 9:55 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 9:55 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 9:55 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 9:58 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 9:58 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 9:58 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:01 pm
+message: Image not found with id: 1
+-------------------------
+-------------------------
+time: October 17, 2021, 10:02 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:02 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:02 pm
+message: Error 2 occured on line 27 in file C:\inetpub\wwwroot\trbs_2021\services\api\images\delete.php: unlink(/uploads/519220-banner-3.jpg): No such file or directory.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:03 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:04 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:06 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:09 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:09 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:11 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:12 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 10:19 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:20 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:21 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:22 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 10:23 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 10:25 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:27 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:27 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:27 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:28 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:28 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:29 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 10:29 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:29 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:29 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 10:30 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 10:30 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 10:30 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 10:31 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 10:34 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 10:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:36 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:38 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:38 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:39 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 10:40 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 10:40 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 10:43 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:43 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 10:43 pm
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:43 pm
+message: Contact Role data fetched.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:44 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:44 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 10:45 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 10:45 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 10:46 pm
+message: GET method not allowed.
+-------------------------
+-------------------------
+time: October 17, 2021, 10:46 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 10:47 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 10:47 pm
+message: GET method not allowed
+-------------------------
+-------------------------
+time: October 17, 2021, 11:40 pm
+message: GET method not allowed
+-------------------------

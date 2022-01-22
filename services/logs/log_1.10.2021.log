@@ -1,0 +1,28 @@
+-------------------------
+time: October 1, 2021, 12:06 am
+message: Error 2 occured on line 7 in file C:\inetpub\wwwroot\trbs_test\services\api\users\validatePasswordChangeToken.php: include_once(C:\inetpub\wwwroot\trbs_test\services\api\users/../../models/AppUser.php): failed to open stream: No such file or directory.
+-------------------------
+-------------------------
+time: October 1, 2021, 12:07 am
+message: Error 2 occured on line 7 in file C:\inetpub\wwwroot\trbs_test\services\api\users\validatePasswordChangeToken.php: include_once(C:\inetpub\wwwroot\trbs_test\services\api\users/../../models/AppUser.php): failed to open stream: No such file or directory.
+-------------------------
+-------------------------
+time: October 1, 2021, 12:22 am
+message: Leaderboard data fetched.
+-------------------------
+-------------------------
+time: October 1, 2021, 12:26 am
+message: Email Id is already associated with another account.
+-------------------------
+-------------------------
+time: October 1, 2021, 12:37 am
+message: Email Id is already associated with another account.
+-------------------------
+-------------------------
+time: October 1, 2021, 12:39 am
+message: Error 2 occured on line 7 in file C:\inetpub\wwwroot\trbs_test\services\api\users\activate.php: include_once(C:\inetpub\wwwroot\trbs_test\services\api\users/../../models/AppUser.php): failed to open stream: No such file or directory.
+-------------------------
+-------------------------
+time: October 1, 2021, 1:04 am
+message: Leaderboard data fetched.
+-------------------------
