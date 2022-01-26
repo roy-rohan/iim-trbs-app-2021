@@ -22,7 +22,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
     $server_url = 'http://localhost/iim-app-services';
 
     if ($_FILES['image_upload']) {
-        $image_upload = $_FILES["image_upload"]["name"];
+        $image_upload = str_replace(' ', '_', basename($_FILES["image_upload"]["name"]));
         $image_tmp_name = $_FILES["image_upload"]["tmp_name"];
         $fileExt = strtolower(pathinfo($image_upload, PATHINFO_EXTENSION));
         $error = $_FILES["image_upload"]["error"];

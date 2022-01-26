@@ -51,13 +51,13 @@ class Booking
 
         return $stmt;
     }
-	
-	  // Get Booking
+
+    // Get Booking
     public function readBookingsAndPayment($data)
     {
         // Create query
         $query = 'SELECT bk.*, au.app_user_id, au.first_name, au.last_name, au.email_id, au.mobile_no, pd.transaction_id FROM ' . $this->table . ' bk LEFT JOIN '
-            . 'app_user au on bk.user_id = au.app_user_id LEFT JOIN payment_detail pd on bk.order_id = pd.order_id order by bk.booking_id desc';
+            . 'app_user au on bk.user_id = au.app_user_id LEFT JOIN payment_detail pd on bk.order_id = pd.order_id WHERE bk.status <> \'initiated\' order by bk.booking_id desc';
 
         $query = $this->processFiltersAndOrderBy($query, $data);
 
