@@ -53,6 +53,23 @@ class Booking
     }
 
     // Get Booking
+    public function readDistinctUsers($data)
+    {
+        // Create query
+        $query = 'SELECT DISTINCT user_id FROM ' . $this->table;
+
+        $query = $this->processFiltersAndOrderBy($query, $data);
+
+        // Prepare statement
+        $stmt = $this->conn->prepare($query);
+
+        // Execute query
+        $this->executeQuery($stmt);
+
+        return $stmt;
+    }
+
+    // Get Booking
     public function readBookingsAndPayment($data)
     {
         // Create query

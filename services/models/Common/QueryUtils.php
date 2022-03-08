@@ -28,7 +28,11 @@ trait QueryUtils
                 }
                 switch (gettype($filter->value)) {
                     case "string":
-                        $filterQuery .= " $filter->field_name $filter->op '$filter->value' ";
+                        if($filter->op == "IN") {
+                            $filterQuery .= " $filter->field_name $filter->op $filter->value ";
+                        } else {
+                            $filterQuery .= " $filter->field_name $filter->op '$filter->value' ";
+                        }
                         break;
                     case "integer":
                         $filterQuery .= " $filter->field_name $filter->op $filter->value ";

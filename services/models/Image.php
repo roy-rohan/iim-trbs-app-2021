@@ -234,7 +234,6 @@ class Image
         $associated_images = $this->readByEntity();
         message_logger("before foreach: " . $this->entity_id . ', ' . $this->entity_type);
         foreach ($associated_images as $associated_image) {
-            echo ' paths: ' . $associated_image["path"];
             $filename  = __DIR__ . "/../" . substr($associated_image["path"], strpos($associated_image["path"], "uploads"));
             message_logger("Image file to be deleted: " . $filename);
             if (file_exists($filename)) {
@@ -250,7 +249,6 @@ class Image
         $stmt->bindParam(':entity_id', $this->entity_id);
         $stmt->bindParam(':entity_type', $this->entity_type);
 
-        echo $query . ', id: ' . $this->entity_id . ', type: ' . $this->entity_type;
         // Execute query
         if ($stmt->execute()) {
             return true;

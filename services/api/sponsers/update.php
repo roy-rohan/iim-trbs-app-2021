@@ -33,10 +33,10 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
     // Update sponser
     if ($sponser->update()) {
         echo json_encode(
-            array('message' => 'Event Updated')
+            array('message' => 'Sponser Updated')
         );
     } else {
-        $exp = new CustomException('Event not updated.');
+        $exp = new CustomException('Sponser not updated.');
         $exp->sendBadRequest();
         exit(1);
     }

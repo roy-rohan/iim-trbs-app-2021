@@ -50,9 +50,19 @@ class AppUser
         $query = 'SELECT u.*, i.path as profile_image, c.name as college, s.name as state FROM ' . $this->table . ' u LEFT JOIN '
             . 'image i ON u.app_user_id = i.entity_id AND i.entity_type = "user" LEFT JOIN college c on '
             . 'u.college_id = c.college_id LEFT JOIN state s on '
-            . 'u.state_id = s.state_id order by u.app_user_id desc';
+            . 'u.state_id = s.state_id';
 
         $query = $this->processFiltersAndOrderBy($query, $data);
+        $customSortQuery = "u.app_user_id desc";
+
+        if (strpos(
+            $query,
+            ' ORDER BY '
+        )) {
+            $query .= ', ' . $customSortQuery;
+        } else {
+            $query .= ' ORDER BY ' . $customSortQuery;
+        }
 
         // Prepare statement
         $stmt = $this->conn->prepare($query);

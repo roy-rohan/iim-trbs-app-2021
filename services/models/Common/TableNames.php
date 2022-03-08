@@ -10,4 +10,6 @@ class TABLES
     static $PAYMENT_DETAIL = "payment_detail";
     static $COUPON_MASTER = "coupon_master";
     static $STRATEGIZER = "strategizer";
+    static $CERTIFICATE = "certificate";
+    static $USER_CERTIFICATE = "user_certificate";
 }
