@@ -168,7 +168,7 @@ trait Template
                             <td style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;" align="left">
 
                               <div style="line-height: 140%; text-align: left; word-wrap: break-word;">
-                                <p style="font-size: 14px; line-height: 140%;">Thank you for registering with The Red Brick Summit 2021 - Asia\'s Largest Managment symposium<br />In our 3rd edition, we have events, workshops and speaker sessions panning across multiple themes and functions of business.</p>
+                                <p style="font-size: 14px; line-height: 140%;">Thank you for registering with The Red Brick Summit 2022 - Asia\'s Largest Managment symposium<br />In this edition, we have events, workshops and speaker sessions panning across multiple themes and functions of business.</p>
                               </div>
 
                             </td>
@@ -182,8 +182,8 @@ trait Template
                             <td style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;" align="left">
 
                               <div style="line-height: 140%; text-align: left; word-wrap: break-word;">
-                                <p style="font-size: 14px; line-height: 140%;">But that\'s not all...As always, TRBS 2021 will be chock-a-block with exciting and invigorating experiences such as Garba Nights, Kaleido, Innovation Playground, On-the-spot Events etc.<br />Don\'t forget to individually
-                                  register for the activities of your interest using the links above.<br />We look forward to host you for an amazing experience at IIM Ahmedabad.</p>
+                                <p style="font-size: 14px; line-height: 140%;">But that\'s not all...As always, TRBS 2022 will be chock-a-block with exciting and invigorating experiences such as Garba Nights, Kaleido, Innovation Playground, On-the-spot Events etc.<br />Don\'t forget to individually
+                                  register for the activities of your interest using the links above.<br />We look forward to host you for an amazing experience at IIM Ahmedabad on Campus.</p>
                               </div>
 
                             </td>
@@ -229,7 +229,7 @@ trait Template
                             <td style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;" align="left">
 
                               <div style="line-height: 140%; text-align: left; word-wrap: break-word;">
-                                <p style="font-size: 14px; line-height: 140%;">Web Communications Team,</p>
+                                <p style="font-size: 14px; line-height: 140%;">Vineet M R,<br/>Tech Team Head,</p>
                               </div>
 
                             </td>
@@ -243,7 +243,7 @@ trait Template
                             <td style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;" align="left">
 
                               <div style="line-height: 140%; text-align: left; word-wrap: break-word;">
-                                <p style="font-size: 14px; line-height: 140%;">The Red Brick Summit - 2021</p>
+                                <p style="font-size: 14px; line-height: 140%;">The Red Brick Summit - 2022</p>
                               </div>
 
                             </td>
