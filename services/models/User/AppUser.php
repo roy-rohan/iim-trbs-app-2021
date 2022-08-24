@@ -115,6 +115,50 @@ class AppUser
         $this->updated_at = $row['updated_at'];
     }
 
+
+    // Get Single AppUser
+    public function read_by_email()
+    {
+        // Create query
+        $query = 'SELECT u.*, i.path as profile_image, c.name as college, s.name as state FROM ' . $this->table . ' u LEFT JOIN '
+        . 'image i ON u.app_user_id = i.entity_id AND i.entity_type = "user" LEFT JOIN college c on '
+        . 'u.college_id = c.college_id LEFT JOIN state s on '
+        . 'u.state_id = s.state_id  WHERE email_id = :email_id';
+
+        // Prepare statement
+        $stmt = $this->conn->prepare($query);
+
+        // Bind ID
+        $stmt->bindParam(":email_id", $this->email_id);
+
+        // Execute query
+        $stmt->execute();
+
+        $row = $stmt->fetch(PDO::FETCH_ASSOC);
+
+        // Set properties
+        $this->app_user_id = $row['app_user_id'];
+        $this->first_name = $row['first_name'];
+        $this->last_name = $row['last_name'];
+        $this->email_id = $row['email_id'];
+        $this->mobile_no = $row['mobile_no'];
+        $this->college = $row['college'];
+        $this->year = $row['year'];
+        $this->address = $row['address'];
+        $this->email_validated = $row['email_validated'];
+        $this->profile_image = $row['profile_image'];
+        $this->state = $row['state'];
+        $this->role = $row['role'];
+        $this->login_id = $row['login_id'];
+        $this->cart_id = $row['cart_id'];
+        $this->created_by = $row['created_by'];
+        $this->updated_by = $row['updated_by'];
+        $this->is_active = $row['is_active'];
+        $this->created_at = $row['created_at'];
+        $this->updated_at = $row['updated_at'];
+    }
+
+
     // Create IntestedUser
     public function create()
     {

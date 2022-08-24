@@ -45,7 +45,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
         if ($payment_id) {
             // update order status and payment id 
             if ($order_model->status) {
-                $order_model->status = $data->status == 1 ? "Success" : "Failed";
+                $order_model->status = $data->status == 1 ? "success" : "failed";
                 $order_model->update();
             } else {
                 $exp = new CustomException("Order could not be updated.");
@@ -59,7 +59,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
                 $booking_model->read_single();
                 if ($booking_model->status != null) {
                     $booking_model->status =
-                        $data->status == 1 ? "Success" : "Failed";
+                        $data->status == 1 ? "success" : "failed";
                     $booking_model->ticket_no = uniqid("TRBS");
                     $booking_model->update();
                 }
