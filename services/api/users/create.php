@@ -36,6 +36,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
     $app_user->role = $data->role;
     $app_user->login_id = $data->login_id;
     $app_user->is_active = $data->is_active;
+    $app_user->external_type = "FORM_LOGIN";
 
     try {
         if (!$app_user->checkAppUser()) {

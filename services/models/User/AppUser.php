@@ -28,6 +28,9 @@ class AppUser
     public $profile_image_id;
     public $profile_image;
     public $role;
+    public $external_type;
+    public $external_id;
+    public $profile_image_url;
     public $login_id;
     public $cart_id;
     public $is_active;
@@ -100,11 +103,13 @@ class AppUser
         $this->email_id = $row['email_id'];
         $this->mobile_no = $row['mobile_no'];
         $this->college = $row['college'];
+        $this->college_id = $row['college_id'];
         $this->year = $row['year'];
         $this->address = $row['address'];
         $this->email_validated = $row['email_validated'];
         $this->profile_image = $row['profile_image'];
         $this->state = $row['state'];
+        $this->state_id = $row['state_id'];
         $this->role = $row['role'];
         $this->login_id = $row['login_id'];
         $this->cart_id = $row['cart_id'];
@@ -113,6 +118,9 @@ class AppUser
         $this->is_active = $row['is_active'];
         $this->created_at = $row['created_at'];
         $this->updated_at = $row['updated_at'];
+        $this->external_type = $row['external_type'];
+        $this->external_id = $row['external_id'];
+        $this->profile_image_url = $row['profile_image_url'];
     }
 
 
@@ -156,6 +164,56 @@ class AppUser
         $this->is_active = $row['is_active'];
         $this->created_at = $row['created_at'];
         $this->updated_at = $row['updated_at'];
+        $this->external_type = $row['external_type'];
+        $this->external_id = $row['external_id'];
+        $this->profile_image_url = $row['profile_image_url'];
+    }
+
+    // Get Single AppUser
+    public function read_external_user()
+    {
+        // Create query
+        $query = 'SELECT u.*, i.path as profile_image, c.name as college, s.name as state FROM ' . $this->table . ' u LEFT JOIN '
+        . 'image i ON u.app_user_id = i.entity_id AND i.entity_type = "user" LEFT JOIN college c on '
+        . 'u.college_id = c.college_id LEFT JOIN state s on '
+        . 'u.state_id = s.state_id  WHERE email_id = :email_id AND external_id = :external_id AND external_type = :external_type';
+
+        // Prepare statement
+        $stmt = $this->conn->prepare($query);
+
+        // Bind ID
+        $stmt->bindParam(":email_id", $this->email_id);
+        $stmt->bindParam(":external_id", $this->external_id);
+        $stmt->bindParam(":external_type", $this->external_type);
+
+        // Execute query
+        $stmt->execute();
+
+        $row = $stmt->fetch(PDO::FETCH_ASSOC);
+
+        // Set properties
+        $this->app_user_id = $row['app_user_id'];
+        $this->first_name = $row['first_name'];
+        $this->last_name = $row['last_name'];
+        $this->email_id = $row['email_id'];
+        $this->mobile_no = $row['mobile_no'];
+        $this->college = $row['college'];
+        $this->year = $row['year'];
+        $this->address = $row['address'];
+        $this->email_validated = $row['email_validated'];
+        $this->profile_image = $row['profile_image'];
+        $this->state = $row['state'];
+        $this->role = $row['role'];
+        $this->login_id = $row['login_id'];
+        $this->cart_id = $row['cart_id'];
+        $this->created_by = $row['created_by'];
+        $this->updated_by = $row['updated_by'];
+        $this->is_active = $row['is_active'];
+        $this->created_at = $row['created_at'];
+        $this->updated_at = $row['updated_at'];
+        $this->external_type = $row['external_type'];
+        $this->external_id = $row['external_id'];
+        $this->profile_image_url = $row['profile_image_url'];
     }
 
 
@@ -166,10 +224,10 @@ class AppUser
         $query = 'INSERT INTO ' . $this->table . ' SET first_name = :first_name, last_name = :last_name, '
             . ' email_id = :email_id, mobile_no = :mobile_no, college_id = :college_id,'
             . ' year = :year, password = :password, email_validated = :email_validated, '
-            . ' address = :address, state_id = :state_id, role = :role,'
+            . ' address = :address, state_id = :state_id, role = :role, external_type = :external_type,'
             . ' login_id = :login_id, cart_id = :cart_id, created_by = :created_by, updated_by = :updated_by,'
             . ' is_active = :is_active, created_at = :created_at,'
-            . ' updated_at = :updated_at';
+            . ' updated_at = :updated_at, external_id = :external_id, profile_image_url = :profile_image_url';
 
 
         // Prepare statement
@@ -209,6 +267,9 @@ class AppUser
         $stmt->bindParam(':is_active', $this->is_active);
         $stmt->bindParam(':created_at', $this->created_at);
         $stmt->bindParam(':updated_at', $this->updated_at);
+        $stmt->bindParam(':external_type', $this->external_type);
+        $stmt->bindParam(':external_id', $this->external_id);
+        $stmt->bindParam(':profile_image_url', $this->profile_image_url);
 
         // Execute query
         if ($this->executeQuery($stmt)) {
@@ -326,6 +387,60 @@ class AppUser
         if (!empty($row)) {
             return true;
         }
+        return false;
+    }
+
+    public function checkGoogleUser()
+    {
+        // Create query
+        $query = 'SELECT *  FROM ' . $this->table . ' WHERE email_id = :email_id AND external_type = :external_type'
+                . ' AND external_id = :external_id';
+
+        // Prepare statement
+        $stmt = $this->conn->prepare($query);
+
+        // Clean data
+        $this->email_id = htmlspecialchars(strip_tags($this->email_id));
+        $this->external_type = htmlspecialchars(strip_tags($this->external_type));
+
+        // Bind data
+        $stmt->bindParam(':email_id', $this->email_id);
+        $stmt->bindParam(':external_type', $this->external_type);
+        $stmt->bindParam(':external_id', $this->external_id);
+        
+        // Execute query
+        $stmt->execute();
+
+        $row = $stmt->fetch(PDO::FETCH_ASSOC);
+
+        if (!empty($row)) {
+            return true;
+        }
+        return false;
+    }
+
+    public function updateExternalUserAttributes()
+    {
+        // Create query
+        $query = 'UPDATE ' . $this->table . ' SET email_validated = :email_validated,'
+        . ' external_type = :external_type, external_id = :external_id, profile_image_url = :profile_image_url'
+        . ' WHERE login_id = :login_id AND is_active = 1';
+
+        // Prepare statement
+        $stmt = $this->conn->prepare($query);
+
+        // Bind data
+        $stmt->bindParam(':email_validated', $this->email_validated);
+        $stmt->bindParam(':external_type', $this->external_type);
+        $stmt->bindParam(':external_id', $this->external_id);
+        $stmt->bindParam(':profile_image_url', $this->profile_image_url);
+        $stmt->bindParam(':login_id', $this->login_id);
+
+        // Execute query
+        if ($this->executeQuery($stmt)) {
+            return true;
+        }
+
         return false;
     }
 

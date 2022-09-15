@@ -7,7 +7,6 @@ include_once __DIR__ . '/../common/APIUtil.php';
 include_once __DIR__ . '/../../models/User/AppUser.php';
 include_once __DIR__ . '/../../auth/token_utils.php';
 include_once __DIR__ . "/../../services/mail/ForgotPassword/ForgotPassword.php";
-include_once __DIR__ . "/../../services/mail/ProfileActivation/ProfileActivation.php";
 
 use Laminas\Config\Factory;
 
